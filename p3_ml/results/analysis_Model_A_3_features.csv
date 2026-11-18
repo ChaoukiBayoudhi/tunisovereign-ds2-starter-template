@@ -1,0 +1,6 @@
+anomaly_type,total,detected,missed,recall_percent
+flow_drop,155,22,133,14.19
+high_flow_leak,259,185,74,71.43
+low_soil_humidity,257,257,0,100.0
+sirocco_heat,285,284,1,99.65
+unauthorized_pumping,244,244,0,100.0
