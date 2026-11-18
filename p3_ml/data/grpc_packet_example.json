@@ -1,0 +1,8 @@
+{
+  "node_code": "KAS-OLIVE-001",
+  "governorate": "Kasserine",
+  "metric_type": "MOISTURE",
+  "value": 59.51,
+  "iso_timestamp": "2026-11-10T00:00:00Z",
+  "signature_hmac": "<computed-at-runtime>"
+}
